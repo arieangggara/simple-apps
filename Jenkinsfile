@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'devops1-nama' }
+    agent { label 'dev-arie }
 
     stages {
         stage('Pull SCM') {
