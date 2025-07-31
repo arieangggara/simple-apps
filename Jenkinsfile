@@ -35,7 +35,7 @@ pipeline {
                 -Dsonar.projectKey=simple-arie1 \
                 -Dsonar.sources=. \
                 -Dsonar.host.url=http://172.23.8.126:9000 \
-                -Dsonar.login=sqp_fa3c341116c080b79559c9183982b9feeeeaee4dar.login=token-sonar
+                -Dsonar.login=sqp_fa3c341116c080b79559c9183982b9feeeeaee4dar
                                 '''
             }
         }
